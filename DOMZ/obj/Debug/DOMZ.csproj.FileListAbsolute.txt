@@ -1,0 +1,14 @@
+C:\Users\ANDREY\Desktop\С#\test1\DOMZ\DOMZ\bin\Debug\DOMZ.exe.config
+C:\Users\ANDREY\Desktop\С#\test1\DOMZ\DOMZ\bin\Debug\DOMZ.exe
+C:\Users\ANDREY\Desktop\С#\test1\DOMZ\DOMZ\bin\Debug\DOMZ.pdb
+C:\Users\ANDREY\Desktop\С#\test1\DOMZ\DOMZ\obj\Debug\DOMZ.csprojAssemblyReference.cache
+C:\Users\ANDREY\Desktop\С#\test1\DOMZ\DOMZ\obj\Debug\DOMZ.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\С#\test1\DOMZ\DOMZ\obj\Debug\DOMZ.exe
+C:\Users\ANDREY\Desktop\С#\test1\DOMZ\DOMZ\obj\Debug\DOMZ.pdb
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ\bin\Debug\DOMZ.exe.config
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ\bin\Debug\DOMZ.exe
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ\bin\Debug\DOMZ.pdb
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ\obj\Debug\DOMZ.csprojAssemblyReference.cache
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ\obj\Debug\DOMZ.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ\obj\Debug\DOMZ.exe
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ\obj\Debug\DOMZ.pdb

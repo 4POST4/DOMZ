@@ -1,0 +1,13 @@
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\bin\Debug\netcoreapp3.1\DOMZ4.exe
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\bin\Debug\netcoreapp3.1\DOMZ4.deps.json
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\bin\Debug\netcoreapp3.1\DOMZ4.runtimeconfig.json
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\bin\Debug\netcoreapp3.1\DOMZ4.runtimeconfig.dev.json
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\bin\Debug\netcoreapp3.1\DOMZ4.dll
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\bin\Debug\netcoreapp3.1\DOMZ4.pdb
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\obj\Debug\netcoreapp3.1\DOMZ4.csprojAssemblyReference.cache
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\obj\Debug\netcoreapp3.1\DOMZ4.AssemblyInfoInputs.cache
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\obj\Debug\netcoreapp3.1\DOMZ4.AssemblyInfo.cs
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\obj\Debug\netcoreapp3.1\DOMZ4.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\obj\Debug\netcoreapp3.1\DOMZ4.dll
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\obj\Debug\netcoreapp3.1\DOMZ4.pdb
+C:\Users\ANDREY\Desktop\C# задачи\DOMZ4\obj\Debug\netcoreapp3.1\DOMZ4.genruntimeconfig.cache

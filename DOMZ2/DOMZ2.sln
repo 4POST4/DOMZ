@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOMZ2", "DOMZ2.csproj", "{87ADC9A4-85E3-429E-9A2D-8F279BFDCFC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87ADC9A4-85E3-429E-9A2D-8F279BFDCFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ADC9A4-85E3-429E-9A2D-8F279BFDCFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87ADC9A4-85E3-429E-9A2D-8F279BFDCFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87ADC9A4-85E3-429E-9A2D-8F279BFDCFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5AE76D8-1EB7-4C94-9F99-F446EBAB0473}
+	EndGlobalSection
+EndGlobal
